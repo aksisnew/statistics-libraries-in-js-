@@ -6,10 +6,7 @@
 
 ## 🚀 Features
 
-- **Core Functionality**: Describe the primary action or main capability of the app.
-- **User Authentication**: Secure sign-up, login, and session management.
-- **Real-Time Data**: Instant updates or processing for seamless performance.
-- **REST / GraphQL API**: Fully structured endpoints for clean client-server communication.
+- **Core Functionality**: statistics calculations, math operations
 
 ---
 
