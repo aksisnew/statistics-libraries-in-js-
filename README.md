@@ -1,6 +1,8 @@
 # Project Name
 
-> A concise, one-line summary describing what this app does and the core problem it solves.
+> statistics calculations in js
+
+# PLEASE REVIEW THE REPOSITORY FULLY, BEFORE USING ANY CODE FROM THIS REPOSITORY. THIS IS NOT A REGULARLY MAINTAINED REPOSITORY AND MAY CONTAIN PLENTY OF ISSUES. IF YOU CANT AUDIT, REVIEW, VERIFY THE CODE YOURSELF THEN PLEASE DONT USE THIS REPOSITORY.
 
 ---
 
