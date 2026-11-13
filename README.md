@@ -16,10 +16,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Node.js / Express or Python / FastAPI
-- **Database**: PostgreSQL / MongoDB / Redis
-- **Authentication**: JWT / OAuth2
-- **Tooling & Environment**: Docker, Git, dotenv
+- **Backend**: Node.js 
+- **Database**: 
+- **Authentication**: 
+- **Tooling & Environment**: 
 
 ---
 
@@ -28,8 +28,7 @@
 ### Prerequisites
 
 * [Node.js](https://nodejs.org/) (v18+) or [Python](https://www.python.org/) (v3.10+)
-* [Git](https://git-scm.com/)
-* [PostgreSQL](https://www.postgresql.org/) / [MongoDB](https://www.mongodb.com/) (if applicable)
+  
 
 ---
 
